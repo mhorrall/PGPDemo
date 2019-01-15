@@ -1,0 +1,5 @@
+C:\Users\Matt\source\repos\PgpDemo\PgpDemo.Core\bin\Debug\PgpDemo.Core.dll
+C:\Users\Matt\source\repos\PgpDemo\PgpDemo.Core\bin\Debug\PgpDemo.Core.pdb
+C:\Users\Matt\source\repos\PgpDemo\PgpDemo.Core\obj\Debug\PgpDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\PgpDemo\PgpDemo.Core\obj\Debug\PgpDemo.Core.dll
+C:\Users\Matt\source\repos\PgpDemo\PgpDemo.Core\obj\Debug\PgpDemo.Core.pdb
